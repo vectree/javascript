@@ -18,7 +18,7 @@
 Добро пожаловать на траекторию JavaScript. Начинаем!
 
 1. О траектории: [конспект](https://github.com/vectree/resources/blob/master/text/00112.md)
-2. Так чем же занимаются веб-разработчики: [конспект](https://github.com/vectree/resources/blob/master/text/00113.md)
+2. Обзор: [конспект](https://github.com/vectree/resources/blob/master/text/00113.md)
 
 ### Организация
 
